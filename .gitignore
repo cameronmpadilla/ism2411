@@ -12,3 +12,4 @@ Thumbs.db
 
 git add .gitignore
 git commit -m "add .gitignore for Python and OS files"
+git push
